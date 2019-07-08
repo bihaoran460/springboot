@@ -1,4 +1,4 @@
-package com.example.springboot.Controller;
+package com.example.springboot.controller;
 
 import com.example.springboot.entity.User;
 import com.example.springboot.repository.UserRepository;
